@@ -29,7 +29,7 @@ It displays two sections- one to upload csv file and other to upload images.
 ```
   eg:   
 ```    
-    TechRacers  |      EchoLink      |     Success     |      image.png   |    
+    Berkeley  |      EchoLink      |     Success     |      image.png   |    
 ```
 can be uploaded. The imageName field name must match with the uploaded images name.
 
@@ -44,4 +44,4 @@ can be uploaded. The imageName field name must match with the uploaded images na
     - Enter mnemonic
     - Enter Private Key
 
-- After verification of menmonic/private key, a transaction will happen which will save images to IPFS and credential data to EKO-Pops node.
+- After verification of menmonic/private key, a transaction will happen which will save images to IPFS and credential data to EKO-PoPS node.
