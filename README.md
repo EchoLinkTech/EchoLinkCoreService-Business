@@ -1,4 +1,4 @@
-# Bulk-upload
+# EchoLink Core Service - Business Version
 Dapp to upload user's credential data(csv and images) to EKO-Pops
 
 ## Prerequisites
