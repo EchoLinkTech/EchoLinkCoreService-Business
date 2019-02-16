@@ -29,7 +29,7 @@ It displays two sections- one to upload csv file and other to upload images.
 ```
   eg:   
 ```    
-    TechRacers  |      EchoLink      |     Success     |      image.png   |    
+    UC Berkeley  |      EchoLink      |     Success     |      image.png   |    
 ```
 can be uploaded. The imageName field name must match with the uploaded images name.
 
